@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.home-main{
+  background-image: url(https://res.cloudinary.com/dkgwk8ey5/image/upload/v1694965955/home_code_y8i9wr.png);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+}
